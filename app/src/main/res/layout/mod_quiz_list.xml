@@ -17,8 +17,9 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
             android:layout_weight="2"
-            android:text="Qu 1"
+            android:text="Qu f1"
             android:textSize="24sp"
+            android:textColor="@android:color/black"
             android:textStyle="bold" />
 
         <ImageView
